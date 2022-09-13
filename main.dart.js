@@ -16389,7 +16389,7 @@ OC(){var s=0,r=A.a2(t.f0),q,p,o
 var $async$OC=A.a3(function(a,b){if(a===1)return A.a_(b,r)
 while(true)switch(s){case 0:p=t.N
 s=3
-return A.a8(A.a5A(A.jQ("https://api.backupmanager.info/webservices?method=show-backup-usage&apikey=97bed14a683cfd0065fd1a5613a1a205&user=bkp@hos.com.br"),A.aF(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","*","Referrer-Policy","no-referrer-when-downgrade","Access-Control-Allow-Methods","*","Access-Control-Max-Age","999"],p,p)),$async$OC)
+return A.a8(A.a5A(A.jQ("https://5aeuzvmwmtma5d5edvrww7xmqm0ssjni.lambda-url.us-east-2.on.aws/usage"),A.aF(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","*","Referrer-Policy","no-referrer-when-downgrade","Access-Control-Allow-Methods","*"],p,p)),$async$OC)
 case 3:o=b
 if(o.b===200){q=J.mi(t.eT.a(J.ae(B.a7.oX(0,A.a5z(A.a5d(o.e).c.a.j(0,"charset")).ck(0,o.w),null),"BACKUP_SETS")),new A.OD(),t.Dr).c8(0,!0)
 s=1
@@ -16403,7 +16403,7 @@ OA(){var s=0,r=A.a2(t.tS),q,p,o
 var $async$OA=A.a3(function(a,b){if(a===1)return A.a_(b,r)
 while(true)switch(s){case 0:p=t.N
 s=3
-return A.a8(A.a5A(A.jQ("https://api.backupmanager.info/webservices?method=get-backup-infos&apikey=97bed14a683cfd0065fd1a5613a1a205&user=bkp@hos.com.br"),A.aF(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","*","Referrer-Policy","no-referrer-when-downgrade","Access-Control-Allow-Methods","*","Access-Control-Max-Age","999"],p,p)),$async$OA)
+return A.a8(A.a5A(A.jQ("https://5aeuzvmwmtma5d5edvrww7xmqm0ssjni.lambda-url.us-east-2.on.aws/info"),A.aF(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","*","Referrer-Policy","no-referrer-when-downgrade","Access-Control-Allow-Methods","*"],p,p)),$async$OA)
 case 3:o=b
 if(o.b===200){q=J.mi(t.eT.a(B.a7.oX(0,A.a5z(A.a5d(o.e).c.a.j(0,"charset")).ck(0,o.w),null)),new A.OB(),t.bi).c8(0,!0)
 s=1

@@ -53003,7 +53003,7 @@ q=m.a
 p=m.b
 o=m.e
 n=m.f
-return new A.q_(r.fc(s,new A.YX(),t.a).dv(0),A.b([A.mr("Nome","loja.Nome",400,m.d,l,q,m.c,p),A.mr("Crm","loja.Id",100,n,l,q,o,p),A.mr("Cnpj","loja.Cnpj",150,n,l,q,o,p),A.mr("Uso","usage.TotalSizeMb",80,m.r,B.V,q,o,p),A.mr("\xdaltimo Backup com sucesso","info.LastSuccessBackup",205,n,l,q,o,p),A.mr("\xdaltimo Backup","info.LastBackup",150,n,l,q,o,p),A.mr("\xdaltimo Status","info.LastBackupStatus",200,n,l,q,o,p)],t.tq),l)}return B.Gs},
+return new A.q_(r.fc(s,new A.YX(),t.a).dv(0),A.b([A.mr("Nome","loja.Nome",400,m.d,l,q,m.c,p),A.mr("Crm","loja.Id",100,n,l,q,o,p),A.mr("Cnpj","loja.Cnpj",150,n,l,q,o,p),A.mr("Uso","usage.TotalSizeMb",80,m.r,B.V,q,o,p),A.mr("\xdaltimo Backup com sucesso","info.LastSuccessBackup",205,n,l,q,o,p),A.mr("\xdaltimo Backup","info.LastBackup",150,n,l,q,o,p),A.mr("\xdaltimo Status","info.LastBackupStatusDesc",200,n,l,q,o,p)],t.tq),l)}return B.Gs},
 $S:322}
 A.YX.prototype={
 $1(a){return a.ip()},
